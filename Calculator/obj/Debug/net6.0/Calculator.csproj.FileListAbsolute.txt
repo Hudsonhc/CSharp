@@ -1,0 +1,15 @@
+/home/hudson/workspace/CSharp/Calculator/bin/Debug/net6.0/Calculator
+/home/hudson/workspace/CSharp/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/home/hudson/workspace/CSharp/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/home/hudson/workspace/CSharp/Calculator/bin/Debug/net6.0/Calculator.dll
+/home/hudson/workspace/CSharp/Calculator/bin/Debug/net6.0/Calculator.pdb
+/home/hudson/workspace/CSharp/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/home/hudson/workspace/CSharp/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/hudson/workspace/CSharp/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/home/hudson/workspace/CSharp/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/home/hudson/workspace/CSharp/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/home/hudson/workspace/CSharp/Calculator/obj/Debug/net6.0/Calculator.dll
+/home/hudson/workspace/CSharp/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/home/hudson/workspace/CSharp/Calculator/obj/Debug/net6.0/Calculator.pdb
+/home/hudson/workspace/CSharp/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/home/hudson/workspace/CSharp/Calculator/obj/Debug/net6.0/ref/Calculator.dll
